@@ -1,0 +1,36 @@
+:root{
+    --Red: hsl(0, 36%, 70%);
+    --Soft-Red: hsl(0, 93%, 68%);
+    --Grayish-Red: hsl(0, 6%, 24%);
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Josefin Sans', sans-serif;    
+}
+
+.container{
+    min-height: 10vh;
+}
+
+.hearder{
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+img-mob img{
+    width: 100%;
+}
+
+.section{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+.c-2{
+    display: none;
+}
